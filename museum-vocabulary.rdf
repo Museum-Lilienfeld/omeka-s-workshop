@@ -11,7 +11,7 @@
     <rdfs:comment xml:lang="en">
       Identifier assigned to an object within the museum collection.
     </rdfs:comment>
-    <rdfs:seeAlso rdf:resource="http://terminology.lido-schema.org/lido00100">
+    <rdfs:seeAlso rdf:resource="http://terminology.lido-schema.org/lido00100" />
   </rdf:Property>
 
 </rdf:RDF>
