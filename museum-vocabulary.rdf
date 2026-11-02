@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Property
+    rdf:about="https://your-domain.at/vocab/museum.rdf#inventoryNumber">
+    <rdfs:label xml:lang="de">Inventarnummer</rdfs:label>
+    <rdfs:label xml:lang="en">Inventory number</rdfs:label>
+    <rdfs:comment xml:lang="en">
+      Identifier assigned to an object within the museum collection.
+    </rdfs:comment>
+    <rdfs:seeAlso rdf:resource="http://terminology.lido-schema.org/lido00100">
+  </rdf:Property>
+
+</rdf:RDF>
